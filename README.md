@@ -1,1 +1,1 @@
-# This is a repository whixh will soon be used for voxel mc
+# This is a repository which will soon be used for voxel mc
